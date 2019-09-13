@@ -2,6 +2,13 @@ body {
   background-color:#ffcccc;
 }
 
+h1{
+	font-size: 35px;
+	text-align: center;
+	margin: 0px auto;
+    display; block;
+}
+
 .content{
   background-color:#e0eeee;
   width:75%; 
