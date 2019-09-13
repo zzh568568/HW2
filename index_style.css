@@ -1,0 +1,19 @@
+body {
+  background-color:#ffcccc;
+}
+
+
+img{
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+}
+
+.content{
+  background-color:#e0eeee;
+  width:80%; 
+  margin: 0 auto;
+  text-align:left; 
+  padding:30px;
+}
